@@ -1,0 +1,26 @@
+body {
+	background-color: #B3E1E0;
+    font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #323232;
+}
+
+
+h2 {
+	color: #829AB2;
+}
+
+p {
+	font-size: 17px;
+	color: #d2F4254;
+}
+
+a {
+	font-size: 17px;
+	color: #684580;
+}
+
+b {
+	font-size: 20px;
+	color: #556370;
+}
